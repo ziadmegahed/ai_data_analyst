@@ -31,3 +31,15 @@ build/
 
 # Logs
 *.log
+
+# Type Checker
+.mypy_cache/
+
+# Ruff
+.ruff_cache/
+
+# Pyright
+.pyright/
+
+# Jupyter
+.ipynb_checkpoints/
